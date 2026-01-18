@@ -1,0 +1,5 @@
+name,email,amount,status
+Ana,ana@example.com,120.50,paid
+Bruno,bruno@example.com,80.00,pending
+Carla,carla@example.com,200.00,paid
+Diego,diego@example.com,50.00,failed
